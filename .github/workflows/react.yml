@@ -24,4 +24,4 @@ jobs:
       run: |
            docker push khizaryounus/adarsh:ui_web
            docker tag khizaryounus/adarsh:ui_web khizaryounus/adarsh:latest
-           docker push khizaryounus/petzey:latest
+           docker push khizaryounus/adarsh:latest
